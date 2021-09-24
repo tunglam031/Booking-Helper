@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excercise1", "BookingHelper\Excercise1.csproj", "{CB55171C-671D-4361-8C4B-0F377B4A35EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingHelper.Tests", "BookingHelper.Tests\BookingHelper.Tests.csproj", "{9B07AD50-855B-4E4C-BFE2-427E0F98386A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB55171C-671D-4361-8C4B-0F377B4A35EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB55171C-671D-4361-8C4B-0F377B4A35EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB55171C-671D-4361-8C4B-0F377B4A35EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB55171C-671D-4361-8C4B-0F377B4A35EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B07AD50-855B-4E4C-BFE2-427E0F98386A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B07AD50-855B-4E4C-BFE2-427E0F98386A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B07AD50-855B-4E4C-BFE2-427E0F98386A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B07AD50-855B-4E4C-BFE2-427E0F98386A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2388EF-D230-4FB4-8D8F-24D10B473C74}
+	EndGlobalSection
+EndGlobal

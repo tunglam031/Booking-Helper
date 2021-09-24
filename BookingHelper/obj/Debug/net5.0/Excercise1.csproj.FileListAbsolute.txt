@@ -1,0 +1,12 @@
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\Excercise1.csprojAssemblyReference.cache
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\Excercise1.AssemblyInfoInputs.cache
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\Excercise1.AssemblyInfo.cs
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\bin\Debug\net5.0\Excercise1.deps.json
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\bin\Debug\net5.0\Excercise1.dll
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\bin\Debug\net5.0\ref\Excercise1.dll
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\bin\Debug\net5.0\Excercise1.pdb
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\Excercise1.dll
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\ref\Excercise1.dll
+C:\Users\LAM\source\repos\BookingHelper\BookingHelper\obj\Debug\net5.0\Excercise1.pdb
