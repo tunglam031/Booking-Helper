@@ -1,0 +1,72 @@
+/* 3 loại Test: Unit Test, Integration Test, End-to-End Test */
+
+
+I/ Unit Testing Overview:
+   1. Unit Testing, Automated Testing là gì? 
+	  - Unit Testing (kiểm tra đơn vị) là cách thức kiểm tra chức năng của 
+      một phương thức xem phương thức có hoạt động đúng với chức năng mà 
+      chúng ta đã cài đặt hay không
+      - Automated Testing là việc sử dụng những test tool để viết test case 
+      và chạy test case một cách tự động để kiểm tra mà không cần phải chạy
+      toàn bộ chương trình để test và có thể test được nhiều case khác nhau
+      - Sử dụng Automated Testing thì giá thành sản phẩm thấp hơn so với sử
+      dụng Manual Testing
+   
+   2. Lợi ích của Automated Testing:
+      - Có thể test code thường xuyên và tốn ít thời gian
+      - Phát hiện được lỗi trước khi triển khai 
+      - Giúp việc triển khai và Refactor code tự tin hơn
+      - Tập trung vào chất lượng
+   
+   3. Đặc điểm Unit Testing:
+      - Unit Test của một ứng dụng thì chúng ta không test nó với hệ thống
+      bên ngoài, tức là cả code và Unit Test đều nằm trong cùng một hệ thống
+      - Chi phí rẻ để viết
+      - Thực thi nhanh
+      - Đỡ tốn nhiều công sức
+   
+   4. Integration Testing:
+      - Integration Testing là test ứng dụng với một hệ thống bên ngoài
+      VD: Database System, File System,...
+      - Mất nhiều thời gian để thực thi
+      - Tốn nhiều công sức hơn 
+
+   5. End-to-End Testing:
+      - End-to-End Testing là test ứng dụng thông qua giao diện người dùng
+      - Test rất lâu và mất nhiều thời gian
+   
+
+II/ Fundamentals of Unit Testing:
+	1. Đặc điểm của một Unit Testing tốt:
+	- Method sạch sẽ, dễ đọc, dễ bảo trì
+	- Logic rõ ràng, đơn giản
+	- Các method phải độc lập nhau
+    - Method không quá đặc tả hoặc chung chung
+    
+	2. Nên test gì và không nên test gì?
+	- Method có thể test được thì code phải sạch sẽ = Code của method 
+	sạch sẽ thì mới có thể test được
+	- Không test: Tính năng của ngôn ngữ lập trình, code của bên thứ 3
+	
+	3. Black-box Testing:
+	- Là cách thức test chỉ quan tâm đến giá trị Input và Output mà không 
+	cần quan tâm đến nội dung của method
+	- Black-box Testing thực hiện test dựa vào requirement của bài toán
+	(test phân vùng, test giá trị biên)
+
+	4. White-box Testing:
+	- Là cách thức test mà yêu cầu phải chạy method và đảm bảo mỗi câu lệnh 
+	trong method phải được thực hiện ít nhất 1 lần
+	- Phân loại: Statement Coverage, Decision Coverage, Path Coverage
+	  ● Statement Coverage: Đảm bảo rằng các câu lệnh được thực hiện ít nhất 
+	                        1 lần (trong nhiều trường hợp không đủ số lượng 
+							test case cần thiết)
+	  ● Decision Coverage: Số lượng test case bằng số nhánh trong các câu lệnh
+	  ● Path Coverage: Số lượng test case bằng số đường có thể đi được từ 
+	                   điểm đầu đến điểm cuối
+	  
+
+   
+   
+   
+   
